@@ -25,7 +25,7 @@ export default function Hero(){
         
         <div className="hero-card">
           <div className="profile-frame">
-            <img src="/formal%20pic.jpeg" alt="Ram Prakash Yadav" className="profile-photo animated animate-pop" />
+            <img src="https://raw.githubusercontent.com/Ramprakashyadav2151/Portfolio/main/formal%20pic.jpeg" alt="Ram Prakash Yadav" className="profile-photo animated animate-pop" />
           </div>
           <h3>Quick Info</h3>
           <ul>
