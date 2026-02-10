@@ -27,12 +27,7 @@ export default function Hero(){
           <div className="profile-frame">
             <img src="https://raw.githubusercontent.com/Ramprakashyadav2151/Portfolio/main/formal%20pic.jpeg" alt="Ram Prakash Yadav" className="profile-photo animated animate-pop" />
           </div>
-          <h3>Quick Info</h3>
-          <ul>
-            <li><strong>Languages:</strong> Python, JavaScript, C, C++, Java, SQL</li>
-            <li><strong>Frameworks:</strong> React, NodeJS, Express</li>
-            <li><strong>Tools:</strong> Oracle, AutoCAD</li>
-          </ul>
+          <h3>Full Stack Web Developer</h3>
         </div>
       </div>
     </section>
