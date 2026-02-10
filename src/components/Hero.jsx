@@ -7,7 +7,7 @@ export default function Hero(){
         <div className="accent-blob blob-1" aria-hidden></div>
         <div className="hero-intro">
           <div className="hero-name">
-            <h2 className="glow">Hi, I'm Ram</h2>
+            <h2 className="glow">Hi, I'm Ram Prakash Yadav</h2>
             <p className="muted small">B.Tech Computer Science • Developer</p>
           </div>
           <p className="lead">I build clean, accessible web experiences and efficient console applications. Skilled in Python, C++, JavaScript, and web frameworks.</p>
@@ -18,12 +18,15 @@ export default function Hero(){
           </p>
           <div className="hero-actions">
             <a className="btn" href="#projects">View Projects</a>
-            <a className="btn ghost" href="/resume.pdf" download>Download Resume</a>
+            <a className="btn ghost" href="/Prakash_Updated_CV_.pdf" download>Download Resume</a>
             <a className="btn ghost" href="https://github.com/Ramprakashyadav2151" target="_blank" rel="noreferrer">GitHub</a>
           </div>
         </div>
+        
         <div className="hero-card">
-          <img src="https://media.licdn.com/dms/image/v2/D5603AQGA8amNJMe5RA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1698259827753?e=1772064000&v=beta&t=4zOfySB2nAHKfCyJjPMnd84Gq8oX9cqCUHYug93Qgzo" alt="Ram Prakash Yadav" className="profile-photo animated animate-pop" />
+          <div className="profile-frame">
+            <img src="/formal%20pic.jpeg" alt="Ram Prakash Yadav" className="profile-photo animated animate-pop" />
+          </div>
           <h3>Quick Info</h3>
           <ul>
             <li><strong>Languages:</strong> Python, JavaScript, C, C++, Java, SQL</li>

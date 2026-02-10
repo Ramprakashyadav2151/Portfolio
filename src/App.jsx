@@ -32,6 +32,7 @@ export default function App(){
         <section className="section container" id="about">
           <h2>About</h2>
           <p>I am a hardworking, adaptable developer with strong problem-solving skills and leadership experience. I enjoy building web apps and efficient back-end systems.</p>
+          <p>I am passionate about learning new technologies and staying at the forefront of web development trends. Continuous learning is at the core of my professional philosophy—whether it's exploring emerging frameworks, mastering new programming languages, or deepening my understanding of system design. I believe that in the fast-paced tech industry, the ability to adapt and grow is key to delivering innovative solutions.</p>
         </section>
         <Projects />
         <Skills />

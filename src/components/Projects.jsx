@@ -2,6 +2,13 @@ import React from 'react'
 
 const projectData = [
   {
+    title: 'Dental Clinic Management System',
+    desc: 'Developed a comprehensive web application to streamline dental clinic operations. Features include patient management, appointment scheduling, treatment records, billing, and staff management. Built with React for intuitive UI and Node.js backend for robust data handling.',
+    tech: ['React.js', 'Node.js', 'MongoDB', 'Express'],
+    icon: '🦷',
+    date: 'Jan 2025 - Present'
+  },
+  {
     title: 'Student Scorecard Generator',
     desc: 'Built a C++ console application to efficiently generate and manage student scorecards. Implemented file handling for persistent storage, used data structures for organized record management, and automated grade calculations.',
     tech: ['C++', 'File I/O', 'Data Structures'],
